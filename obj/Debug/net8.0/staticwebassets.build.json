@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "JjnenAHBlZn+LjOzNNoxvzTVNmKt1HipMPUilCuSF/0=",
+  "Source": "RestApiWithDb",
+  "BasePath": "_content/RestApiWithDb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
